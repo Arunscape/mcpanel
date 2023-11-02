@@ -102,6 +102,7 @@ dependencies = [
  "leptos_meta",
  "leptos_router",
  "podman-api",
+ "podman-api-stubs",
  "serde",
  "serde_json",
  "thiserror",
